@@ -1,0 +1,6 @@
+Analisis
+
+•	Filter Canny: Menghasilkan tepi tipis dan tajam dengan langkah-langkah kompleks.
+•	Filter Laplacian: Menyoroti detail tepi dengan tepi yang lebih tebal dan kasar.
+•	Filter Prewitt: Menghasilkan tepi kasar yang lebih halus daripada Laplacian.
+•	Filter Sobel: Menghasilkan tepi tajam yang lebih tebal daripada Prewitt dengan ketahanan yang lebih baik terhadap noise.
